@@ -7,6 +7,7 @@ import './index.css';
 import App from './App.jsx';
 
 import { AuthProvider } from './context/AuthContext';
+import { Toaster } from 'react-hot-toast';
 
 createRoot(document.getElementById('root')).render(
 
@@ -15,6 +16,17 @@ createRoot(document.getElementById('root')).render(
     <AuthProvider>
 
       <App />
+      <Toaster
+    position="top-right"
+    toastOptions={{
+      duration: 3000,
+      style: {
+        borderRadius: '16px',
+        background: '#111827',
+        color: '#fff'
+      }
+    }}
+  />
 
     </AuthProvider>
 
