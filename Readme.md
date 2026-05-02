@@ -6,7 +6,7 @@
 
 # 🌐 Live Demo
 
-🔗 Live Application: [https://taskmanagement-production-2601.up.railway.app/](https://taskmanagement-production-2601.up.railway.app/)
+🔗 Live Application: [https://taskmanagement-production-2601.up.railway.app/](https://teamtaskmamagement.up.railway.app/)
 🔗 GitHub Repository: [https://github.com/Vanshvala23/TeamTaskManager.git](https://github.com/Vanshvala23/TeamTaskManager.git)
 
 ---
